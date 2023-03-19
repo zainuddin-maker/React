@@ -15,7 +15,7 @@ so react.js is
 - All about building modern, reactive user interfaces for the web.
 - Declarative,component-focused approach.
 
-![Chat Preview](https://github.com/zainuddin-maker/Golang/blob/master/imgdiagram/diagrams-009.3%20-%20method%20receiver.png?raw=true)
+![Chat Preview](https://github.com/zainuddin-maker/React/blob/master/img/what-is-programming2.png?raw=true)
 
 
 
